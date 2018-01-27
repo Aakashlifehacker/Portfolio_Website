@@ -13130,15 +13130,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\fredd\\source\\repos\\portfolio-website\\portfolio-website\\portfolio-website.csproj",
+      "projectUniqueName": "c:\\Users\\fredd\\source\\repos\\portfolio-website\\Portfolio_Website\\portfolio-website\\portfolio-website.csproj",
       "projectName": "portfolio-website",
-      "projectPath": "C:\\Users\\fredd\\source\\repos\\portfolio-website\\portfolio-website\\portfolio-website.csproj",
+      "projectPath": "c:\\Users\\fredd\\source\\repos\\portfolio-website\\Portfolio_Website\\portfolio-website\\portfolio-website.csproj",
       "packagesPath": "C:\\Users\\fredd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fredd\\source\\repos\\portfolio-website\\portfolio-website\\obj\\",
+      "outputPath": "c:\\Users\\fredd\\source\\repos\\portfolio-website\\Portfolio_Website\\portfolio-website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
