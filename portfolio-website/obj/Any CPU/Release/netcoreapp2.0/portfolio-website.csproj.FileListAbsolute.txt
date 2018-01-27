@@ -1,0 +1,12 @@
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\bin\Any CPU\Release\netcoreapp2.0\portfolio-website.deps.json
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\bin\Any CPU\Release\netcoreapp2.0\portfolio-website.runtimeconfig.json
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\bin\Any CPU\Release\netcoreapp2.0\portfolio-website.runtimeconfig.dev.json
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\bin\Any CPU\Release\netcoreapp2.0\portfolio-website.dll
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\bin\Any CPU\Release\netcoreapp2.0\portfolio-website.pdb
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.csprojResolveAssemblyReference.cache
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.csproj.CoreCompileInputs.cache
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.AssemblyInfoInputs.cache
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.AssemblyInfo.cs
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.dll
+C:\Users\fredd\source\repos\portfolio-website\portfolio-website\obj\Any CPU\Release\netcoreapp2.0\portfolio-website.pdb
